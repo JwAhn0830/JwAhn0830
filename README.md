@@ -5,6 +5,7 @@
 |Project|
 |------|
 |[esp32_mqtt_protocol](https://github.com/JwAhn0830/esp32_mqttProtocol)|
+|[mpu6050](https://github.com/JwAhn0830/mpu6050)|
 
 |On-going Proejct|
 |-----|
