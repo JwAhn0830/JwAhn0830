@@ -2,14 +2,16 @@
 
 ## Proejct
 
-|Project|
-|------|
-|[esp32_mqtt_protocol](https://github.com/JwAhn0830/esp32_mqttProtocol)|
-|[mpu6050](https://github.com/JwAhn0830/mpu6050)|
+|Proeject|On-going Project|
+|-----|-----|
+|[esp32_mqtt_protocol](https://github.com/JwAhn0830/esp32_mqttProtocol)|[stm32_balancingRobot](https://github.com/JwAhn0830/stm32_balancingRobot)|
+|[mpu6050](https://github.com/JwAhn0830/mpu6050)||
 
-|On-going Proejct|
-|-----|
-|[stm32_balancingRobot](https://github.com/JwAhn0830/stm32_balancingRobot)|
+
+
+
+
+
 <!--
 **JwAhn0830/JwAhn0830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
