@@ -1,4 +1,6 @@
-## Introduction 👋
+## My Info
+- Studying in Eelctronic Engineering (Bachelor's Degree)  
+- Interested in Embedded Sofeware Engineer
 
 ## Proejct
 
