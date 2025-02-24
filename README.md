@@ -1,6 +1,7 @@
 ## My Info
 - Studying in Eelctronic Engineering (Bachelor's Degree)  
 - Interested in Embedded Sofeware Engineer
+- Currently Studying in OpenCV 
 
 ## Proejct
 
@@ -12,7 +13,22 @@
 |[stm32_lineFollower](https://github.com/JwAhn0830/stm32_lineFollower)||
 
 
+## Skill stack
 
+
+**Computation Language**
+- C/C++
+- python
+
+**Hardware**
+- MCU
+   - STM32(STM32CubeIDE)
+   - ESP32(ESP-IDF)
+   - Atmega(Microchip Studio)
+- Circuit Design
+  - KiCAD
+- Modeling
+  - Solidworks 
 
 
 <!--
