@@ -25,6 +25,8 @@
    - STM32(STM32CubeIDE)
    - ESP32(ESP-IDF)
    - Atmega(Microchip Studio)
+- NPU
+   - Hailo
 - Circuit Design
   - KiCAD
 - Modeling
