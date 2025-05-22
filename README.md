@@ -1,7 +1,7 @@
 ## My Info
 - Studying in Eelctronic Engineering (Bachelor's Degree)  
 - Interested in Embedded Sofeware Engineer
-- Currently Studying in OpenCV 
+- Currently Studying in on-device AI using [Hailo-8 NPU](https://github.com/hailo-ai)
 
 ## Proejct
 
@@ -16,10 +16,10 @@
 ## Skill stack
 
 
-**Computation Language**
-- C/C++
+**Computation Language**  
+- C/C++ (mainly use) 
 - python
-
+  
 **Hardware**
 - MCU
    - STM32(STM32CubeIDE)
