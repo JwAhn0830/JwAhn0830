@@ -1,5 +1,5 @@
 ## My Info
-- Studying in Eelctronic Engineering (Bachelor's Degree)  
+- Major in Eelctronic Engineering (Bachelor's Degree)  
 - Interested in Embedded Sofeware Engineer
 - Currently Studying in on-device AI using [Hailo-8 NPU](https://github.com/hailo-ai)
 
