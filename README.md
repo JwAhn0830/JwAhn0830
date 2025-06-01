@@ -28,7 +28,7 @@
 - NPU
    - Hailo
 - Circuit Design
-  - KiCAD
+  - KiCAD, Altium
 - Modeling
   - Solidworks 
 
