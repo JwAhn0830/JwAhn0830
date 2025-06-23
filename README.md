@@ -16,7 +16,7 @@
 ## Skill stack
 
 
-**Computation Language**  
+**Computation Language**
 - C/C++ (mainly use) 
 - python
   
@@ -27,9 +27,8 @@
    - Atmega(Microchip Studio)
 - NPU
    - Hailo
-- Circuit Design
+- Hardware
   - KiCAD, Altium
-- Modeling
   - Solidworks 
 
 
