@@ -13,23 +13,8 @@
 |[Fire_Extinguishing_Simulator](https://github.com/JwAhn0830/Fire_Extinguishing_Simulator)|||
 
 
-## Skill stack
-
-
-**Computation Language**
-- C/C++ (mainly use) 
-- python
-  
-**Hardware**
-- MCU
-   - STM32(STM32CubeIDE)
-   - ESP32(ESP-IDF)
-   - Atmega(Microchip Studio)
-- NPU
-   - Hailo
-- Hardware
-  - KiCAD, Altium
-  - Solidworks 
+## Channel  
+[Portfolio](https://raspy-voyage-52c.notion.site/Jaewon-Ahn-21afb9efe59580bba735dbaa3749cfa1) / [Blog](https://jaewonahn1234.tistory.com/)
 
 
 <!--
