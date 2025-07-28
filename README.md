@@ -3,6 +3,10 @@
 - Interested in Embedded Sofeware Engineer
 - Currently Studying in on-device AI using [Hailo-8 NPU](https://github.com/hailo-ai)
 
+## Experience 
+- [*MyongJI University*](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) (21.03 ~ ing) Bachelor's Degree
+  - Electric Engineering
+  - Smart Embedded Mechanical System 
 ## Proejct
 
 |Proeject|On-going Project|Library|
