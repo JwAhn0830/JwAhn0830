@@ -4,7 +4,7 @@
 - Currently Studying in on-device AI using [Hailo-8 NPU](https://github.com/hailo-ai)
 
 ## Experience 
-- [*Helper Robotics*]() (21.09 ~ ing)
+- [*Helper Robotics*]() (25.09 ~ ing)
   - Embedded Firmware Engineer
 - [*MyongJI University*](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) (21.03 ~ ing) Bachelor's Degree
   - Electric Engineering
