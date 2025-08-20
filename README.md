@@ -8,9 +8,9 @@
 - [*MyongJI University*](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) (21.03 ~ ing) Bachelor's Degree
   - Electric Engineering
   - Smart Embedded Mechanical System 
-## Proejct
+## Project
 
-|Proeject|On-going Project|Library|
+|Project|On-going Project|Library|
 |-----|-----|------|
 |[Driving_Assistance_Device](https://github.com/Driving-Assistance-Device)||[mpu6050](https://github.com/JwAhn0830/mpu6050)|
 |[Fire_Extinguishing_Simulator](https://github.com/JwAhn0830/Fire_Extinguishing_Simulator)|||
