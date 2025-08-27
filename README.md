@@ -5,7 +5,7 @@
 ## Experience 
 - [*Helper Robotics*]() (25.09 ~ 25.12)
   - Embedded Firmware Engineer
-- [*MyongJI University*](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) (21.03 ~ ing) Bachelor's Degree
+- [*MyongJI University*](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) (21.03 ~ 27.02 (Expected)) B.S in 
   - Electric Engineering
   - Smart Embedded Mechanical System 
 ## Project
