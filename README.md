@@ -7,7 +7,7 @@
   - Embedded Firmware Engineer
 - [*MyongJI University*](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) (21.03 ~ 27.02 (Expected)) B.S in 
   - Electric Engineering
-  - Smart Embedded Mechanical System 
+  - Smart Embedded Mechanical System (Joint Major)
 ## Project
 
 |Project|On-going Project|Library|
