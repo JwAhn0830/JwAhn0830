@@ -3,7 +3,7 @@
 - Interested in Embedded Sofeware Engineer
 
 ## Experience 
-- [*Helper Robotics*]() (25.09 ~ ing)
+- [*Helper Robotics*]() (25.09 ~ 25.12)
   - Embedded Firmware Engineer
 - [*MyongJI University*](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) (21.03 ~ ing) Bachelor's Degree
   - Electric Engineering
