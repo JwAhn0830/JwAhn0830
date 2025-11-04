@@ -1,6 +1,6 @@
 ## My Info
 - Majoring In EE (Junior year in Univ.)
-- Interested in Embedded Sofeware Engineer
+- Interested in Embedded Sofeware Engineering
 
 ## Experience 
 - [*Helper Robotics*](https://www.hprobot.ai/) (25.09 ~ 25.12)
