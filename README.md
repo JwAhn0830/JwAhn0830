@@ -1,5 +1,5 @@
 ## My Info
-- Majoring In EE (Junior year in Univ.)
+- Majoring In EE (Senior year in Univ.)
 - Interested in Embedded Software Engineering
 
 ## Experience 
