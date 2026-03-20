@@ -20,7 +20,7 @@
 
 
 ## Channel  
-[Portfolio](https://raspy-voyage-52c.notion.site/Jaewon-Ahn-21afb9efe59580bba735dbaa3749cfa1) / [Blog](https://jaewonahn1234.tistory.com/)
+[Blog](https://jaewonahn1234.tistory.com/)
 
 
 <!--
