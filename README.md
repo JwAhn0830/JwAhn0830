@@ -12,7 +12,7 @@
 
 |Project|On-going Project|Library|
 |-----|-----|------|
-|[Driving_Assistance_Device](https://github.com/Driving-Assistance-Device)||[mpu6050](https://github.com/JwAhn0830/mpu6050)|
+|[Driving_Assistance_Device](https://github.com/Driving-Assistance-Device)|[Myongji_Trash_Robot](https://github.com/2026-Myongji-Trash-Robot)|[mpu6050](https://github.com/JwAhn0830/mpu6050)|
 |[Fire_Extinguishing_Simulator](https://github.com/JwAhn0830/Fire_Extinguishing_Simulator)|||
 |[stm32_balancingRobot](https://github.com/JwAhn0830/stm32_balancingRobot)|||
 |[stm32_lineFollower](https://github.com/JwAhn0830/stm32_lineFollower)|||
