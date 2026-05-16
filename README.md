@@ -3,6 +3,8 @@
 - Interested in Embedded Software Engineering
 
 ## Experience 
+- [*Advantech*](https://www.advantech.com/ko-kr) (26.07 ~ , Expected)
+  - Field Application Engineer
 - [*Helper Robotics*](https://www.hprobot.ai/) (25.09 ~ 26.02)
   - Embedded Engineer
 - [*MyongJI University*](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) (21.03 ~ 27.02 (Expected)) B.S in 
