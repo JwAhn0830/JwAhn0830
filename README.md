@@ -3,8 +3,10 @@
 - Interested in Embedded Software Engineering
 
 ## Experience 
-- [*Helper Robotics*](https://www.hprobot.ai/) (25.09 ~ 26.02)
-  - Embedded Engineer
+- [*Helper Robotics*](https://www.hprobot.ai/) (25.09 ~ 26.02, Embedded Engineer Intern)
+  - Developed HW/FW for serving robots (Cortex-M3) and evaluated specs of new components
+
+## Education
 - [*MyongJI University*](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) (21.03 ~ 27.02 (Expected)) B.S in 
   - Electric Engineering
   - Smart Embedded Mechanical System (Joint Major)
