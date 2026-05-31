@@ -1,7 +1,3 @@
-## My Info
-- Majoring In EE (Senior year in Univ.)
-- Interested in Embedded Software Engineering
-
 ## Experience 
 - [*Helper Robotics*](https://www.hprobot.ai/) (25.09 ~ 26.02, Embedded Engineer Intern)
   - Developed HW/FW for serving robots (Cortex-M3) and evaluated specs of new components
