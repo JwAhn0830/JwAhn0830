@@ -1,6 +1,4 @@
 ## Experience 
-- [Advantech](https://www.advantech.com/en) (26.07 ~ Present, Field Application Engineer)
-
 - [*Helper Robotics*](https://www.hprobot.ai/) (25.09 ~ 26.02, Embedded Engineer Intern)
   - Developed HW/FW for serving robots (Cortex-M3) and evaluated specs of new components
 
